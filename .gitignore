@@ -1,0 +1,9 @@
+checkpoint/
+logs/
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+*.egg-info/
